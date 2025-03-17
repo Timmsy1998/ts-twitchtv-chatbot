@@ -1,0 +1,33 @@
+{
+  "name": "ts-twitchtv-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot for twitch.tv using NJS 20.18.3, and typescript integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Timmsy1998/ts-twitchtv-chatbot.git"
+  },
+  "keywords": [
+    "twitch",
+    "twitchtv",
+    "chatbot",
+    "typescript",
+    "ts"
+  ],
+  "author": "James Timms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timmsy1998/ts-twitchtv-chatbot/issues"
+  },
+  "homepage": "https://github.com/Timmsy1998/ts-twitchtv-chatbot#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "typescript": "^5.8.2"
+  }
+}
